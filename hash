@@ -1,0 +1,8 @@
+new_hash = 
+{
+  name: "kalada",
+  :age => 29,
+  :height => "6'2"
+}
+
+puts new_hash
